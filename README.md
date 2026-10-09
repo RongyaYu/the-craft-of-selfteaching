@@ -1,3 +1,15 @@
+给你们荐一本开源书，《自学是门手艺》，码农也好，想着一路往前冲的人也好，都该拿来翻翻。
+
+ GitHub 上已经攒到 17.4K+ Stars，整本书翻来覆去就讲一个理：人要是学不会自个儿学，前头基本没什么指望了。这话听着硌耳朵，可你慢慢品，还真就那么回事。
+
+想把长期学习练成肌肉记忆，先揣着慢慢嚼。
+
+🔗：
+github.com/selfteaching/t…
+
+
+
+
 # the-craft-of-selfteaching
 
 > One has no future if one couldn't teach themself<a href='#fn1' name='fn1b'><sup>[1]</sup></a>.
